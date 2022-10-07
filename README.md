@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Computer Science professors are notorious for having plain-looking HTML websites that are unstyled, or styled poorly. 
+Computer Science professors are notorious for having plain-looking HTML websites that are unstyled, or styled poorly.
 
 Here’s a sample of websites from Harvard’s CS department:
 
@@ -46,17 +46,11 @@ You'll need:
 * A fake bio or background
 * Links to other pages
 
-**Working together**
-
-If you're working in a team, work together to come up with the facts and info. Decide which of your names you'll use (or make up a persona with a fake name to use instead). 
-
-Working in a team, it's even more important to write down your notes as you come up with ideas and work on the site. Use `site-plan.md` or message each other in chat to stay on the same page.
-
 **Building the site**
 
 Once you have all the materials, you should start building the site in HTML. Decide on the appropriate HTML elements for each of the pieces of information you're adding to the site. Lists should use list elements, emphasized text should use emphasis elements, and paragraphs should use paragraph elements!
 
-After you've added all the Elements to your site, check that the style is similar to the CS Professor sites linked. If you want, you can add some additional styles to `styles.css`, but it's okay if you don't style the page any further.
+After you've added all the Elements to your site, check that the style is similar to the CS Professor sites linked.
 
 Check your work against the rubric below, and then click Submit!
 
@@ -70,7 +64,6 @@ Use this checklist to confirm that you've included everything you need:
 - [ ] Uses the list and list item elements
 - [ ] Includes links to other pages
 - [ ] Still has the Disclaimer at the top of the page
-- [ ] Shows your creativity
 
 ## Bonus: Other ideas
 
@@ -78,4 +71,3 @@ If you have submitted the project and you have more time, you can be creative an
 
 * Create a fake CV or bio
 * Link to some other faculty pages, or to an institution's home page
-* Figure out how to get replit to serve your page using a `~` (tilde) character in the URL, like in `harvard.edu/~dbrooks/`
